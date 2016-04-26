@@ -1,0 +1,47 @@
+body {
+	padding-top:0px;
+}
+
+.header-10-sub {
+	height: 500px;
+}
+
+.header-10-sub .background {
+	background:#fff url('../images/bg.jpg') 0 100px no-repeat;
+	background-size:cover;
+}
+
+.header-10-sub .background#about {
+	background:#fff url('../images/bg-about.jpg') 0 -300px no-repeat;
+	background-size:cover;
+}
+
+.navbar-header .brand img {
+	height:50px;
+}
+
+.content-8 img {
+	max-width: 70%;
+}
+
+#about, #products {
+	padding-top: 0;
+}
+
+#AgReview {
+	padding-top: 0;
+	background:#f3f4f5 ;
+}
+
+
+.stats {
+	list-style: none;
+}
+
+.stats li {
+	padding: 10px 0 0;
+}
+#NDispatch {
+	padding-top: 0;
+	background: #f9fcff;
+}
