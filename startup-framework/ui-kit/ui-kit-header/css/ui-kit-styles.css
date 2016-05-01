@@ -1064,7 +1064,7 @@ body .colapsed-menu::-webkit-scrollbar {
   display: none;
 }
 /**
- * Header 10 stylesheet  
+ * Header 10 stylesheet
  * */
 .header-10 {
   z-index: 100;
@@ -1293,7 +1293,7 @@ body .colapsed-menu::-webkit-scrollbar {
   }
 }
 /**
- * Header 11 stylesheet  
+ * Header 11 stylesheet
  * */
 .header-11-startup-antiflicker {
   border-bottom: 1px #bdc3c7 solid;
